@@ -1,9 +1,6 @@
 #New DEVNET FLASK app sandbox test
 
-Still under development
+This is a new GIT funcationaility test
 
-Added new feature to test pulling
-
-also added this, look good?
 
 > Note: Verison 2 will be better
